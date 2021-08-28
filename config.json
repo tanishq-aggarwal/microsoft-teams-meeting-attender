@@ -1,0 +1,7 @@
+{
+    "email": "your email here",
+    "password": "your password here",
+    "chrome_profile_path": "system path to a chrome profile if you want Chrome to remember cookies and login information",
+    "headless": false,
+    "mute_audio": true
+}
